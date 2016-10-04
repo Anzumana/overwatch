@@ -1,0 +1,19 @@
+{
+  "name": "checky",
+  "private": true,
+  "authors": [
+    "Anzumana Taal"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "",
+  "homepage": "",
+  "dependencies": {
+    "ionic": "driftyco/ionic-bower#1.3.1",
+  },
+  "resolutions": {
+    "angular": "1.5.8",
+    "angular-translate": "~2.12.0"
+  }
+}
