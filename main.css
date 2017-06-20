@@ -7,8 +7,8 @@ body {
     font-size: 7em; }
   body img {
     object-fit: contain;
-    width: 20vw;
-    height: 20vh; }
+    width: 40vw;
+    height: 40vh; }
   body .dragon-dance {
     animation-delay: 0s;
     width: 512px;
