@@ -13,6 +13,8 @@ myApp.controller('SquadCtrl', ['$scope', function TodoCtrl($scope) {
 	$scope.data.squad["sauvrinn"]={};
 	$scope.data.squad["lewcor"]={};
 	$scope.data.squad["clowntown"]={};
+	$scope.data.squad["kaiser"]={};
+	$scope.data.squad["blaze"]={};
 	$scope.data.squad["anzumana"].name="Senwyn#2415";
 	$scope.data.squad["jayjay"].name="JayJayBiggie#2793";
 	$scope.data.squad["sauvrinn"].name="Sauvrin#1244";
