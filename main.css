@@ -5,10 +5,21 @@ body {
   flex-direction: column; }
   body .header {
     font-size: 7em; }
+  body img:hover {
+    filter: hue-rotate(45deg); }
+  body h1 {
+    position: sticky;
+    top: 1px;
+    z-index: 1; }
   body img {
+    animation-delay: 0s;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    filter: grayscale(0%);
     object-fit: contain;
     width: 40vw;
-    height: 40vh; }
+    height: 40vh;
+    position: relative; }
   body .dragon-dance {
     animation-delay: 0s;
     width: 512px;

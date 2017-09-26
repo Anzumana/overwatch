@@ -63,4 +63,7 @@ myApp.controller('SquadCtrl', ['$scope', function TodoCtrl($scope) {
 		{name:'winston', playing:true,training:false, highlight:'http://youtube.com',title:'that save'},
 		{name:'zeniata', playing:true,training:false, highlight:'http://youtube.com',title:'that save'}
 	];
+	$scope.test = function test(){
+		console.log('OVERWATCH');
+	}
 }]);
