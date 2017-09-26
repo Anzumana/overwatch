@@ -1,0 +1,10 @@
+{
+	"name": "overwatch",
+	"version": "1.0.0",
+	"scripts": {
+		"start":"list ."
+	},
+	"dependencies": {
+		"micro-list" :"latest"
+	}
+}

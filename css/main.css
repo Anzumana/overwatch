@@ -1,0 +1,58 @@
+body {
+  color: white;
+  background-color: #2a8392; }
+  body .icon {
+    width: 40px;
+    height: 40px;
+    background-size: 24px;
+    background-repeat: no-repeat; }
+    body .icon.anna {
+      background-image: url("img/anna.svg"); }
+    body .icon.bastion {
+      background-image: url("img/bastion.svg"); }
+    body .icon.dva {
+      background-image: url("img/dva.svg"); }
+    body .icon.genji {
+      background-image: url("img/genji.svg"); }
+    body .icon.hanzo {
+      background-image: url("img/hanzo.svg"); }
+    body .icon.junkrat {
+      background-image: url("img/junkrat.svg"); }
+    body .icon.lucio {
+      background-image: url("img/lucio.svg"); }
+    body .icon.mccree {
+      background-image: url("img/mccree.svg"); }
+    body .icon.mei {
+      background-image: url("img/mei.svg"); }
+    body .icon.mercy {
+      background-image: url("img/mercy.svg"); }
+    body .icon.phara {
+      background-image: url("img/phara.svg"); }
+    body .icon.reaper {
+      background-image: url("img/reaper.svg"); }
+    body .icon.reinhard {
+      background-image: url("img/reinhard.svg"); }
+    body .icon.roadhoag {
+      background-image: url("img/roadhoag.svg"); }
+    body .icon.soldier {
+      background-image: url("img/soldier.svg"); }
+    body .icon.symmetra {
+      background-image: url("img/symmetra.svg"); }
+    body .icon.torbjoern {
+      background-image: url("img/torbjoern.svg"); }
+    body .icon.tracer {
+      background-image: url("img/tracer.svg"); }
+    body .icon.widow {
+      background-image: url("img/widow.svg"); }
+    body .icon.winston {
+      background-image: url("img/winston.svg"); }
+    body .icon.zarya {
+      background-image: url("img/zarya.svg"); }
+    body .icon.zeniata {
+      background-image: url("img/zeniata.svg"); }
+    body .icon.reaper {
+      background-image: url("img/reaper.svg"); }
+  body .container {
+    background-color: black; }
+
+/*# sourceMappingURL=main.css.map */
